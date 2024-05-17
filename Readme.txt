@@ -5,11 +5,12 @@ Run ip-reverse-dns-lookup.pl from perl by entering
 
 ip-output.txt will be made, containing IP address and host name looked up from the IP. It is very easy to import this to Excel and such.
 
-(C)Tsubasa Kato 2013
+Updated on 5/17/2024 to include timeout version (ip-reverse-dns-lookup-timeout.pl)
 
+(C)Tsubasa Kato 2013 - 2024
 
 Also check out:
 =========================================================
-Mohawk Search: Scratch Built Search Engine made with Perl
-
-http://www.mohawksearch.com
+Inspire Search Corporation: 
+Our company building new search engines.
+https://www.inspiresearch.io/en
